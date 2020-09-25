@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Nello416/mugilove.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nello416/mugilove.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Welcome to MugiLove club!
+### To Introduce the club, I'm willing to introduce K-ON for u.
+below are the introduction on Wiki.
+K-On! (けいおん! Keion!?) is a Japanese four-panel comic strip manga written and illustrated by Kakifly. The manga was serialized in Houbunsha's seinen manga magazine Manga Time Kirara between the May 2007 and October 2010 issues. It was also serialized in Houbunsha's magazine Manga Time Kirara Carat. A 13-episode anime adaptation produced by Kyoto Animation aired in Japan between April and June 2009. An additional original video animation episode was released in January 2010. A 26-episode second season, titled K-On!! (with two exclamation marks), aired in Japan between April and September 2010. An anime film adaptation has been announced. The title of the series comes from the Japanese word for light music, keiongaku (軽音楽?), but in the Japanese context is similar to pop music. 
